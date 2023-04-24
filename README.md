@@ -1,2 +1,2 @@
 # Basic-Calculator
-A classic and basic calculator made with Python
+A command prompt based classic and basic calculator made with Python
